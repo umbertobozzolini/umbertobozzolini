@@ -3,7 +3,7 @@
 Career transition from digital marketing to cybersecurity. Building the practical foundation
 for penetration testing through CTF labs, homelab work, and certification tracks.
 
-**Currently pursuing:** INE eJPT | CompTIA Network+ (N10-009) | CompTIA Security+
+**Certifications:** eJPT (INE) — completed | **Currently pursuing:** CompTIA Network+ (N10-009) | CompTIA Security+
 
 ---
 
