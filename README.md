@@ -17,3 +17,4 @@ habit of asking "how does this actually work?"
 * CompTIA Security+ - next on the list
 * Active on TryHackMe and INE labs, building a personal homelab
 * Based in Torino, Italy
+
