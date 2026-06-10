@@ -15,6 +15,6 @@ habit of asking "how does this actually work?"
 * eJPT (INE) - certified
 * CompTIA Network+ (N10-009) - in progress
 * CompTIA Security+ - next on the list
-* Active on TryHackMe and INE labs, building a personal homelab
+* Active on TryHackMe, HTB and INE labs, building a personal homelab
 * Based in Torino, Italy
 
